@@ -1,0 +1,10 @@
+{
+    "PERIOD_COOLING": 28800000, // 8 hours in ms
+    "TIME_TAP_GAME": 60000,     // 1 minutes in ms   
+    "BASE_REWARD_TAP": 1,
+    "BASE_REWARD_FARM": 5,
+    "HELLO_BONUS": 2400,
+    "BASE_DONATE": 200000000,   // 0.2 Ton
+    "PERIOD_BOOSTER": 86400,     // 24 hours in seconds
+    "POINTS_FRIEND": 1000
+}
